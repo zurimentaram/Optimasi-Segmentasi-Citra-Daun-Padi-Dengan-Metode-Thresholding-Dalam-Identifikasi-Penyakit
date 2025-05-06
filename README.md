@@ -1,0 +1,1 @@
+# Optimasi_Segmentasi_Citra_Daun_Padi_Dengan_Metode_Thresholding_Dalam_Identifikasi_Penyak.ipynb
